@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="Black">
-    <option name="executionMode" value="BINARY" />
-    <option name="pathToExecutable" value="/opt/homebrew/bin/black" />
-    <option name="sdkUUID" value="dd7c5e10-2b91-4915-98a1-8c15fcb66686" />
-  </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (proxify)" project-jdk-type="Python SDK" />
-</project>
