@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>Dialog</class>
- <widget class="QDialog" name="Dialog">
+ <class>Knn</class>
+ <widget class="QDialog" name="Knn">
   <property name="geometry">
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>436</width>
-    <height>276</height>
+    <width>442</width>
+    <height>309</height>
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Dialog</string>
+   <string>Knn</string>
   </property>
   <widget class="QTextEdit" name="textEdit">
    <property name="geometry">
     <rect>
      <x>10</x>
-     <y>20</y>
+     <y>60</y>
      <width>191</width>
      <height>31</height>
     </rect>
@@ -27,7 +27,7 @@
    <property name="geometry">
     <rect>
      <x>10</x>
-     <y>60</y>
+     <y>100</y>
      <width>191</width>
      <height>31</height>
     </rect>
@@ -37,7 +37,7 @@
    <property name="geometry">
     <rect>
      <x>10</x>
-     <y>100</y>
+     <y>140</y>
      <width>191</width>
      <height>31</height>
     </rect>
@@ -47,7 +47,7 @@
    <property name="geometry">
     <rect>
      <x>10</x>
-     <y>140</y>
+     <y>180</y>
      <width>191</width>
      <height>31</height>
     </rect>
@@ -57,7 +57,7 @@
    <property name="geometry">
     <rect>
      <x>210</x>
-     <y>20</y>
+     <y>60</y>
      <width>51</width>
      <height>31</height>
     </rect>
@@ -67,7 +67,7 @@
    <property name="geometry">
     <rect>
      <x>210</x>
-     <y>60</y>
+     <y>100</y>
      <width>51</width>
      <height>31</height>
     </rect>
@@ -77,7 +77,7 @@
    <property name="geometry">
     <rect>
      <x>210</x>
-     <y>100</y>
+     <y>140</y>
      <width>51</width>
      <height>31</height>
     </rect>
@@ -87,7 +87,7 @@
    <property name="geometry">
     <rect>
      <x>210</x>
-     <y>140</y>
+     <y>180</y>
      <width>51</width>
      <height>31</height>
     </rect>
@@ -97,7 +97,7 @@
    <property name="geometry">
     <rect>
      <x>10</x>
-     <y>0</y>
+     <y>40</y>
      <width>191</width>
      <height>20</height>
     </rect>
@@ -110,7 +110,7 @@
    <property name="geometry">
     <rect>
      <x>210</x>
-     <y>0</y>
+     <y>40</y>
      <width>51</width>
      <height>20</height>
     </rect>
@@ -123,7 +123,7 @@
    <property name="geometry">
     <rect>
      <x>270</x>
-     <y>70</y>
+     <y>90</y>
      <width>161</width>
      <height>71</height>
     </rect>
@@ -162,7 +162,7 @@
    <property name="geometry">
     <rect>
      <x>270</x>
-     <y>150</y>
+     <y>170</y>
      <width>161</width>
      <height>71</height>
     </rect>
@@ -201,7 +201,7 @@
    <property name="geometry">
     <rect>
      <x>270</x>
-     <y>220</y>
+     <y>40</y>
      <width>161</width>
      <height>51</height>
     </rect>
@@ -223,10 +223,10 @@
   <widget class="QPushButton" name="pushButton">
    <property name="geometry">
     <rect>
-     <x>10</x>
-     <y>180</y>
-     <width>251</width>
-     <height>41</height>
+     <x>270</x>
+     <y>10</y>
+     <width>161</width>
+     <height>31</height>
     </rect>
    </property>
    <property name="text">
@@ -237,8 +237,8 @@
    <property name="geometry">
     <rect>
      <x>10</x>
-     <y>220</y>
-     <width>251</width>
+     <y>250</y>
+     <width>421</width>
      <height>51</height>
     </rect>
    </property>
@@ -262,14 +262,14 @@
   <widget class="QPushButton" name="pushButton_2">
    <property name="geometry">
     <rect>
-     <x>270</x>
-     <y>20</y>
-     <width>161</width>
-     <height>41</height>
+     <x>10</x>
+     <y>10</y>
+     <width>251</width>
+     <height>31</height>
     </rect>
    </property>
    <property name="text">
-    <string>Загрузить  данные</string>
+    <string>Загрузить данные</string>
    </property>
   </widget>
  </widget>
